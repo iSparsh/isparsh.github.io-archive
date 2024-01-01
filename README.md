@@ -3,11 +3,8 @@ This is a repository for my personal website. For now, I have set up a simple ma
 
 Please feel free to naviagate below:-
 - [About Me](https://isparsh.github.io/about)
-
 - [Contact Me](https://isparsh.github.io/contact)
-
 - [Projects](https://isparsh.github.io/projects)
-
 - [Research](https://isparsh.github.io/research)
-
 - [Resume](https://isparsh.github.io/resume)
+- [Road2Code](https://www.projectroad2code.com/)
