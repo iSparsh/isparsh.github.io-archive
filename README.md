@@ -6,5 +6,4 @@ Please feel free to naviagate below:-
 - [Contact Me](https://isparsh.github.io/contact)
 - [Projects](https://isparsh.github.io/projects)
 - [Research](https://isparsh.github.io/research)
-- [Resume](https://isparsh.github.io/resume)
 - [Road2Code](https://www.projectroad2code.com/)
