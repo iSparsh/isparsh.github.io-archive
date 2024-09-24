@@ -1,5 +1,8 @@
 # Projects
-I have done a few coding projects over the years, some of which never saw the light of day. Here's basically an "about" section of all of them which did.
+I am deeply interested in working on projects for obscure Linux applications. Currently, I am transitioning to larger scalled, full stack cross platform projects.
+
+## Kairos
+Kairos is a full stack, automatic time-keeper app for students and professionals, allowing intelligent task scheduling, commitments management, and chore automations. With natural language processing, Kairos aims to be a fully open source solution to time-management issues faced by all individuals. Kairos will launch soon!
 
 ## Prodolith
 Prodolith was my project that I submitted to the IBDP, but more so wrote for me and one other client. It included the ability to write events, calendars, notes, alarms and timers and poodoro timers as well. I used Python's TKinter to be able to write the GUI Desktop app for it. I also integrated google calendar and used SHA encryption. I also used an SQL database to manage logins.
@@ -9,6 +12,3 @@ You can find all about it over [here](https://www.linkedin.com/pulse/venus-deskt
 
 ## MusicDL
 MusicDL allowed me to be able to query YouTube (using ytdl's API) and download music locally through the terminal. The intention was that you could integrate this with ncurses players, mpv, or cmus to play music through your terminal.
-
-## It's not over yet
-I am cooking up something iterest. Watch my repos :)
