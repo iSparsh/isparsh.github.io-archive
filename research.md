@@ -7,3 +7,6 @@ In this, I was an assistant for Dr. Utkarsh Agrawal from the University of Oxfor
 ## Maharashtra Institute of Technology - Dr. Abhilasha Mishra
 I attended workshops and instruction sessions to be able to develop and submit the "An Improved Object Tracking and Estimating Using Yolov5 Model Based on
 Adaptive Kalman Filter and Mixed Precision for Efficient Inference Performance on Surveillance Camera" paper to the Trends in Sciences Journal [in preprint]. This was quite intense and difficult to navigate, but the experience was worth it. You can have a look at the paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187576).
+
+## Investigating The Effect of Custom Parameters of Convolutional Neural Networks on Accuracy and Training Time
+I wrote an extensive manuscript, through which I was able to write a comprehensive review of CNN technologies and their applications in detecting brain turmor MRI scans, specially investigating how manipulating hyperparameters affect accuracy and training time of a custom CNN model. 
